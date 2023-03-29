@@ -1,5 +1,5 @@
 ﻿# dapp-msgboard
-* Runtime: Node.js、ethers.js (work with 5.x)
+* Runtime: Node.js、ethers.js (only work with 5.x)
 * Services: MetaMask、Goerli Testnet
 
 ## Installation
